@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-StreamLevelManager.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\UE5_Project\Test501cpp3\Intermediate\Build\Win64\Test501cpp3Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\UE5_Project\Test501cpp3\Plugins\StreamLevelManager\Intermediate\Build\Win64\UnrealEditor\Development\StreamLevelManager\StreamLevelManager.cpp.obj"
+"E:\UE5_Project\Test501cpp3\Plugins\StreamLevelManager\Intermediate\Build\Win64\UnrealEditor\Development\StreamLevelManager\Default.rc2.res"
+/OUT:"E:\UE5_Project\Test501cpp3\Plugins\StreamLevelManager\Intermediate\Build\Win64\UnrealEditor\Development\StreamLevelManager\UnrealEditor-StreamLevelManager.lib"

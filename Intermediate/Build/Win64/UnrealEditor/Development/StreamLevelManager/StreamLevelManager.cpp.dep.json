@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\ue5_project\\test501cpp3\\plugins\\streamlevelmanager\\source\\streamlevelmanager\\private\\streamlevelmanager.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue5_project\\test501cpp3\\intermediate\\build\\win64\\test501cpp3editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\ue5_project\\test501cpp3\\plugins\\streamlevelmanager\\intermediate\\build\\win64\\unrealeditor\\development\\streamlevelmanager\\definitions.streamlevelmanager.h",
+            "e:\\ue5_project\\test501cpp3\\plugins\\streamlevelmanager\\source\\streamlevelmanager\\public\\streamlevelmanager.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.StreamLevelManager.cpp.obj": [
+			"LevelManagerFuncs.gen.cpp.obj",
+			"MyStreamLevelManager.gen.cpp.obj",
+			"StreamLevelAction.gen.cpp.obj",
+			"StreamLevelManager.init.gen.cpp.obj",
+			"TrySwitchLevelAction.gen.cpp.obj",
+			"LevelManagerFuncs.cpp.obj",
+			"MyStreamLevelManager.cpp.obj",
+			"StreamLevelAction.cpp.obj",
+			"StreamLevelManager.cpp.obj",
+			"TrySwitchLevelAction.cpp.obj"
+		]
+	}
+}
